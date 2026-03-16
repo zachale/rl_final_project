@@ -1,6 +1,6 @@
 # Pig Tac Toe RL Agent
 
-A reinforcement learning agent that plays Pig Tac Toe — a twist on tic-tac-toe played on a 4x4 grid where players can gamble ("roll again") to place multiple pieces per turn, but risk losing them all. The player with the most 3-in-a-lines at the end wins.
+A reinforcement learning agent that plays Pig Tac Toe: a twist on tic-tac-toe played on a 4x4 grid where players can gamble ("roll again") to place multiple pieces per turn, but risk losing them all. The player with the most 3-in-a-lines at the end wins.
 
 This project was built as a final project for a reinforcement learning course. The goal: train an AI from scratch using RL fundamentals and compete on a class leaderboard.
 
